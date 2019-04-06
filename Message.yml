@@ -1,0 +1,14 @@
+---
+Message1: §a【運営】 §fEconomyCShopの作成が完了しました
+Message2: §a【運営】 §cChestが見つかりません！  横にChestがあるか確認してください
+Message3: §a【運営】 §cこれはあなたのSHOPです
+Message4: §a【運営】 §cインベントリに空きがありません
+Message5: §a【運営】 §cChestにアイテムがありません, 補充してもらいましょう
+Message6: §a【運営】 §cお金が足りないため購入できませんでした
+Message7: §a【運営】 §cあなたはこのchestを開けることができません
+Message8: §a【運営】 §f%itemを%amount個購入しました
+Message9: §a【運営】 §f%itemを購入しますか?(%price円です)
+Message10: §a【運営】 §cあなたはこのShopを破壊することができません
+Message11: §a 【運営】 §cあなたはこのChestを破壊することができません
+Message12: §a【運営】 §fShopを閉店しました
+...

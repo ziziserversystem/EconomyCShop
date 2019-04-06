@@ -1,0 +1,7 @@
+---
+name: EconomyCShop
+main: FAMIMA\ECShop\EconomyCShop
+author: FAMIMA
+version: 0.6.2
+api: 3.0.0
+...
