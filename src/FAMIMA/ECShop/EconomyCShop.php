@@ -61,7 +61,7 @@ class EconomyCShop extends PluginBase
 
 	public function getMessage(string $message, $serrep = [])
 	{
-		return $this->MessageReplace( (isset($this->message[$message])) ? $this->message[$message] : メッセージが存在しません", $serrep);
+		return $this->MessageReplace( (isset($this->message[$message])) ? $this->message[$message] : "メッセージが存在しません", $serrep);
 	}
 
 	public function createChestShop($cpos, $spos, $owner, $item, $price)
